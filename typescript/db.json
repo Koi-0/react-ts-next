@@ -1,0 +1,14 @@
+{
+    "todos": [
+        {
+            "id": "e8fb04ca-d918-4693-bd1a-09d1e8e70799",
+            "title": "sparta",
+            "completed": false
+        },
+        {
+            "id": "8969a574-22a9-4f63-b10c-8e2f7022b133",
+            "title": "good",
+            "completed": true
+        }
+    ]
+}
